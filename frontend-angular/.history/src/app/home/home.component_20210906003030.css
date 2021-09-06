@@ -1,0 +1,13 @@
+.nav-link {
+  cursor:pointer;
+}
+
+.tag-pill{
+  cursor:pointer;
+}
+
+.tag-number{
+  background-color: #eee;
+  border-radius: 25px;
+  color: green;
+}
